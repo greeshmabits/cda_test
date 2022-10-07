@@ -1,0 +1,7 @@
+username_textbox="username"
+password_textbox="password"
+login_btn="submit"
+welcome_msg_box="xpath=//h2[text()='Welcome ']"
+select_dropdown="xpath=//select"
+analyze_btn="xpath=//button[@type='submit']"
+analysis_report="xpath=//h1[text()='Analysis Result']"
